@@ -1,2 +1,2 @@
-# 0520test
-金融上課
+# Streamlit_Financial_Dashboard_Trading
+Streamlit Financial Dashboard and Program Trading
